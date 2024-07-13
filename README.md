@@ -2,7 +2,7 @@
 
 # Bob Marley Tribute Website
 
-![Bob Marley](https://sites.google.com/view/bobmarleyverse?usp=sharing)
+![Bob Marley](https://www.britannica.com/biography/Bob-Marley)
 
 Welcome to the Bob Marley Tribute Website! 🌟🎵
 
